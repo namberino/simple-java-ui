@@ -306,7 +306,7 @@ public class form1 extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField3KeyPressed
 
     private void jTextField1KeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jTextField1KeyPressed
-        if (jTextField1.getText().length() > 8)
+        if (jTextField1.getText().length() > 6)
         {
             jTextField1.setEditable(false);
         }
