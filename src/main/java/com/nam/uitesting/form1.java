@@ -215,6 +215,7 @@ public class form1 extends javax.swing.JFrame {
                 jButton3.setBackground(Color.white);
                 jButton3.setForeground(Color.black);
                 jButton2.setEnabled(true);
+                
             }
         }
     });
